@@ -8,6 +8,10 @@ a:link, a:visited {
   color: #FFF;
 }
 
+a:hover {
+  color: black;
+}
+
 h1  {
   text-align: center;
 }
