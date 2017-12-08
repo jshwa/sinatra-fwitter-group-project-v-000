@@ -4,6 +4,10 @@ body {
   color: #FFF;
 }
 
+a.link {
+  color: #fff
+}
+
 h1  {
   text-align: center;
 }
