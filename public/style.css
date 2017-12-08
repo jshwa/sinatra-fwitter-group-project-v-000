@@ -4,7 +4,7 @@ body {
   color: #FFF;
 }
 
-a.link {
+a.link, a.visited {
   color: #fff;
 }
 
